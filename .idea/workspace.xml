@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="188302fb-4ab9-4708-b9af-6690282f02fa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/JetBrains_Academy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/apiguardian-api-1.1.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/apiguardian-api-1.1.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/apiguardian-api-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-jupiter-api-5.6.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-jupiter-api-5.6.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-jupiter-api-5.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-jupiter-engine-5.6.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-jupiter-engine-5.6.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-jupiter-engine-5.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-platform-commons-1.6.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-platform-commons-1.6.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-platform-commons-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-platform-engine-1.6.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-platform-engine-1.6.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/junit-platform-engine-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-stdlib-1.6.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-stdlib-1.6.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-stdlib-1.6.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-stdlib-common-1.6.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-stdlib-common-1.6.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-stdlib-common-1.6.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-test-1.6.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-test-1.6.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-test-1.6.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-test-junit5-1.6.10-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-test-junit5-1.6.10-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/kotlin-test-junit5-1.6.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/opentest4j-1.2.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/opentest4j-1.2.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/libs/opentest4j-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/out/production/JetBrains_Academy/META-INF/JetBrains_Academy.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/out/production/JetBrains_Academy/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/out/production/JetBrains_Academy/TestingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBrains_Academy/src/main/kotlin/Testing.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JetBrains_Academy/META-INF/JetBrains_Academy.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JetBrains_Academy/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JetBrains_Academy/TestingKt.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2K4noIkBqqLYgSkN1U0XBcKKKve" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/1_Faris Main/Programming/Kotlin/JetBrains_Academy&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;trusted.hosts&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="JetBrains_Academy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="188302fb-4ab9-4708-b9af-6690282f02fa" name="Changes" comment="" />
+      <created>1673242896607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673242896607</updated>
+    </task>
+    <servers />
+  </component>
+</project>
